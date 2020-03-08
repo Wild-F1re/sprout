@@ -5,7 +5,7 @@
 }
 
 .main{
-    /* background-color:#707a79; */
+    background-color:#ffffff;
 }
 
 .footer{
@@ -70,19 +70,34 @@
 }
 .skill__container{
     display: flex;
-    justify-content: space-around;
+    /* justify-content: center;
     align-items: center;
-    text-align: center;
+    text-align: center; */
     margin: 10%;
 
 }
+
 .skill-item01{
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    /* align-items: center; */
+    text-align: center;
+}
+.skill-item02{
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    /* align-items: center; */
+    text-align: center;
+}
+.skill-item01__icon{
     width: 20vw;
     height: 20vw;
     border-radius: 50%;
     background-color: aquamarine;
 }
-.skill-item02{
+.skill-item02__icon{
     width: 20vw;
     height: 20vw;
     border-radius: 50%;
