@@ -55,3 +55,36 @@
 .profile__content02 p{
     width: 70%;
 }
+
+.wrapper02__area{
+    border: solid 3px #b9b9b9;
+    border-radius: 10px;
+
+    margin: 1%;
+    padding: 1%;
+
+}
+
+.skill__title{
+    text-align: center;
+}
+.skill__container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+    margin: 10%;
+
+}
+.skill-item01{
+    width: 20vw;
+    height: 20vw;
+    border-radius: 50%;
+    background-color: aquamarine;
+}
+.skill-item02{
+    width: 20vw;
+    height: 20vw;
+    border-radius: 50%;
+    background-color: rgb(255, 176, 102);
+}
