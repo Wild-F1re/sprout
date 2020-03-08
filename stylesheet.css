@@ -70,9 +70,6 @@
 }
 .skill__container{
     display: flex;
-    /* justify-content: center;
-    align-items: center;
-    text-align: center; */
     margin: 10%;
 
 }
@@ -81,14 +78,12 @@
     width: 50%;
     display: flex;
     justify-content: center;
-    /* align-items: center; */
     text-align: center;
 }
 .skill-item02{
     width: 50%;
     display: flex;
     justify-content: center;
-    /* align-items: center; */
     text-align: center;
 }
 .skill-item01__icon{

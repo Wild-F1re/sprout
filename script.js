@@ -1,5 +1,5 @@
 $(function() {
-
+// skill hoverアクション
     $('.skill-item01__icon').hover(
         function(){
           $('.skill-item02__icon').fadeOut();
